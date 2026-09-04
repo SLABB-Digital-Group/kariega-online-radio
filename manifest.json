@@ -1,0 +1,25 @@
+{
+  "name": "Kariega Online Radio \u2014 The Voice of Kariega",
+  "short_name": "Kariega Radio",
+  "description": "Live. Local. Connected. The Voice of Kariega.",
+  "lang": "en-ZA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080a0b",
+  "theme_color": "#080a0b",
+  "categories": [
+    "music",
+    "entertainment",
+    "news"
+  ],
+  "icons": [
+    {
+      "src": "assets/kariega-logo.png",
+      "sizes": "1536x1536",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
